@@ -1,0 +1,8 @@
+[package]
+authors = ["Jakub Pastuszek <jpastuszek@gmail.com>"]
+name = "tokio-vec-io"
+version = "0.1.0"
+
+[dependencies]
+futures = "0.1.10"
+tokio-core = "0.1.4"
